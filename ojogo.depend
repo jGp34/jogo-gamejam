@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679615844 source:c:\users\augus\onedrive\Área de trabalho\ojogo\ojogo\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+

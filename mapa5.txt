@@ -1,0 +1,30 @@
+############################################################
+#JBBBBBB#XXXXX##############################################
+####BBBB#X   CBBBBBBB  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB#
+# Z BBBB#X   CBBBBBBBBB#################################BBX#
+#B#######    ###########BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB#
+#BBBBXBB#     #    Z        Z                 Z     Z      #
+#BBBBBBB#     #BB###########################################
+#BBBBBBB##    #BBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC#
+#XXBBBBBX     #BBBCCCCCCCCCCCCCCCZZZZCCCCCCCCCCCCCCCCCCCCCC#
+#BBBXBBBX    ###BB##########################################
+#XBBBBBBX     ##BBBB##BXBB##XXBB##XXBB##XXBB##XXBB##BBBBBB##
+#BBBBBBB#    C#    Z                                   Z   #
+#BBBB####    ##BB  ###   ##B  B##B  B##B   ##B  B########BB#
+#BBBB#X       ###########################################BB#
+#BBBB#X      C#      C  C          C       C  C  C   C     #
+#BBBB#X       #BBBBBB    BBBBBBBBBB BBBBBBB BB BB BBB BBBBB#
+#XXXB#       ##BB#### ## ########## ####### ## ## ### ######
+#BBBB#C      X#BBBBBBXBBXBBBBBBBBBBXBBBBBBBXBBXBBXBBBXBBBBX#
+#BBBB#    C   #BBBBBBBBBBBBBBXBBBBXBBBB  BBBBBBBBBBBBBBBBBB#
+#BBBB#Z       #BBXBBBBBBBBBBBBBBBBBBBBB  BBBBBBBBBBBBBBBBBX#
+#BXXX##       #BBBBBBBBBBBBBBBBBBB BBBB  BBBBBBBXBBBBBBBBXB#
+#BXXX#        #BBBBBBBBBBXBBBBBXBB BBBBBBXBBBBBBBBBBBBXBBBB#
+#BBBB#      X##BBBBBBBBBBBBBBBBBBB BBX BBBBBBBBBBBBBBBBBBBB#
+#BBBX# C      #BBBBXBXBBBBBBBBBBBBBBBXBBBBBBBBXBBBBBBBBBBBP#
+#BBBB#        ##############################################
+#BBBB##       BBBBBBBBBBBBBBBBBBBBBBBBBXBBBBBBBXBBBBBBBXBBB#
+#BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB#
+#BBBBBBBBBBBBBBBBBBBBBBBB Z      BBBBBBBBBBBBBBBBBBBBBBBBBH#
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXBBBBBBBBBBBBBBBBBBBBB#
+############################################################
